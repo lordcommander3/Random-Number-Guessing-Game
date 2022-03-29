@@ -1,0 +1,12 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;background-color:#ccf7fc;
+}
+#writting{
+    text-align: center ;border:1px solid black;color: #474747;
+}
+.form{
+    text-align: center; color: blue;
+}
+.submitguess{
+background-color: blue;
+}
